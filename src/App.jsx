@@ -1,5 +1,5 @@
 import React from "react";
-import PortfolioQRCode from "./components/PortfolioQRCode";
+import PortfolioQRCode from "./components/QRCodeGenerator";
 
 function App() {
     return (
